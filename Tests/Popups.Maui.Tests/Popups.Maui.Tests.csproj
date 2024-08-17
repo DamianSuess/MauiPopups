@@ -6,6 +6,7 @@
 		<Nullable>disable</Nullable>
 		<IsPackable>false</IsPackable>
 		<IsTestProject>true</IsTestProject>
+    <LangVersion>10.0</LangVersion>
 	</PropertyGroup>
 
 	<ItemGroup>
